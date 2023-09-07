@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="wrapper">
     <NavBar />
     <Nuxt />
   </div>
@@ -8,6 +8,7 @@
 <style>
 html {
   font-family:
+    'Montserrat',
     'Source Sans Pro',
     -apple-system,
     BlinkMacSystemFont,
@@ -23,5 +24,12 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
+  color: #241c15
+}
+
+
+.wrapper {
+  /* text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased; */
 }
 </style>
