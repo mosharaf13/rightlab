@@ -4,6 +4,9 @@ export default {
 
   // Target (https://go.nuxtjs.dev/config-target)
   target: 'static',
+  router: {
+    base: '/<repository-name>/'
+  },
   app: {
     baseURL: '/rightlab/', // baseURL: '/<repository>/'
     buildAssetsDir: 'assets', // don't use "_" at the begining of the folder name to avoids nojkill conflict
