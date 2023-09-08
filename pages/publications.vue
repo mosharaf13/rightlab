@@ -62,7 +62,7 @@ import {
         display: inline-block;
         width: 1rem; /* Adjust the size of the square */
         margin-right: 0.5em; /* Adjust the spacing between the square and the text */
-        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add a shadow to the square */
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* Add a shadow to the square */
         font-size: 1.5rem; 
     }
 
