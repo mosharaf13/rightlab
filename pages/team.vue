@@ -2,42 +2,43 @@
     <div>
         <div class="slogan ">
             <div class="container mx-auto px-4">
-                <div class="text-2xl font-bold">
+                <div class="text-xl md:text-2xl font-bold">
                     The team that makes it all happen
                 </div>
-                <div class="font-bold mt-2">
+                <div class="text-sm md:text-base font-bold mt-2">
                     Exploring Human Behavior for a better tomorrow
                 </div>
             </div>
         </div>
-        <div class="container mx-auto w-3/5">
+        <div class="container px-12 mx-auto md:w-3/5">
         <div v-for="member in members" class="member flex flex-col bg-transparent py-10 divide-black bg-white opacity-80">
-            <div class="header flex flex-row justify-between">
-                <div class="intro flex flex-row">
+          <div class="header flex flex-col md:flex-row justify-between">
+            <div class="intro flex flex-col items-center justify-center md:flex-row">
 
-                  <div class="h-48">
-                    <div class="h-full w-48 flex flex-col overflow-visible">
-                      <img class="w-full rounded-full object-cover min-h-0" :src="require('~/assets/member_images/' + member.image)"/>
-                    </div>
-                  </div>
-
-                    <div class="identity flex flex-col justify-center mx-5">
-                        <div class="name">
-                            <h2 class="text-2xl font-bold mb-3">{{ member.firstName }} {{ member.lastName }}</h2>
-                        </div>
-                        <div class="title">
-                            <h3 class="text-base mb-2">{{ member.position }}</h3>
-                        </div>
-                    </div>
+              <div class="h-48">
+                <div class="h-full w-48 flex flex-col overflow-visible">
+                  <img class="w-full rounded-full object-cover min-h-0" :src="require('~/assets/member_images/' + member.image)" />
                 </div>
+              </div>
 
-                <div class="contact flex flex-col text-right text-base justify-center underline">
-                    <a v-for="({ link }, platform) in member.links" :href="link">{{ platform}}</a>
+              <div class="identity flex flex-col items-center md:items-start justify-center m-5">
+                <div class="name">
+                  <h2 class="text-xl md:text-2xl font-bold mb-3">{{ member.firstName }} {{ member.lastName }}</h2>
                 </div>
+                <div class="title">
+                  <h3 class="text-base mb-2">{{ member.position }}</h3>
+                </div>
+              </div>
             </div>
 
+            <div class="contact flex flex-col text-center md:text-right text-sm md:text-base justify-center underline">
+              <a v-for="({ link }, platform) in member.links" :href="link">{{ platform }}</a>
+            </div>
+          </div>
+
+
             <div class="body flex flex-row mt-5">
-                <div class="description leading-7 text-base" v-html="member.aboutMe">
+                <div class="description leading-7 text-sm md:text-base" v-html="member.aboutMe">
 
                 </div>
             </div>
