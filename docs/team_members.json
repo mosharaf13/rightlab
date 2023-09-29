@@ -1,60 +1,37 @@
 {
     "members": [
         {
+            "firstName": "Farjana Z.",
+            "lastName": "Eishita",
+            "aboutMe": "Farjana Z. Eishita is an Assistant Professor at the department of Computer Science at the Idaho State University (ISU). Currently, Farjana is the Faculty Lead of the Research of Intelligence, Games and HCI Techniques (RIGHT) laboratory, where the research focus is analyzing the Augmented/Virtual Reality (AR/VR) Game experience and their impacts on diverse sectors such as Health, Education, Training, and Cybersecurity. <br> <br> Farjana earned her doctoral degree in Computer Science from the University of Saskatchewan, Canada in 2017. Her doctoral dissertation examined confrontation of sensor noise in Augmented Reality Gameplay entitled – Analyzing the Impact of Spatio-Temporal Sensor Resolution on Player Experience (PX) in Augmented Reality (AR) Games. ",
+            "links": {
+                "Email": "farjanaeishita@isu.edu",
+                "Personal Website": "https://www.farjanazeishita.com"
+            },
+            "position": "Assistant Professor",
+            "image": "FarjanaZEishita.png"
+        },
+        {
             "firstName": "Rifat Ara",
             "lastName": "Tasnim",
-            "aboutMe": "        Rifat Ara Tasnim is a second year PhD student in Computer Science at the University of New Orleans. She is currently working as a research assistant under Dr. Farjana Zebin Eishita at the Idaho State University. Her main research interest focuses on providing psychological treatment through wearable or handheld devices using serious games. Her current research explores incorporating CBT in video games playable in smartphones. Her primary concern is to implement CBT in a video game to treat young adults who have Obsessive Compulsive Disorder (OCD). She is also working on a digital game to detect different types of cognitive distortions present among the players.<br> <br>Rifat holds a B.Sc. in Computer Science and Engineering from Khulna University of Engineering and Technology, Bangladesh. Before starting her PhD journey, she worked as a software engineer in an IT company.",
+            "aboutMe": "Rifat Ara Tasnim is a PhD student in the Computer Science department at\nIdaho State University. She is currently working as a teaching assistant in the\nComputer Science department. Her main research interest focuses on\nproviding psychological treatment through wearable or handheld devices\nusing serious games. Her current research explores the effectiveness of VR\ntechnology in adapting psychotherapeutic techniques of CBT to treat young\nadults who have Obsessive Compulsive Disorder (OCD). Previously she had\ndeveloped the 3D version of this game for smartphones to analyze its efficacy\nin OCD. She also worked on digital games to detect the level of different\ncognitive distortions present among the players. <br> <br> Rifat holds a B.Sc. in Computer Science and Engineering from Khulna\nUniversity of Engineering and Technology, Bangladesh. Before starting her\nPhD journey, she worked as a software engineer in an IT company.",
             "links": {
-                "email": "mosharafkuet@gmail.com",
-                "linkedin": "https://linkedin.com/mosharaf13"
+                "Email": "rifataratasnim@isu.edu",
+                "Linkedin": "https://www.linkedin.com/in/rifat-ara-tasnim/"
             },
             "position": "PhD Student",
-            "image": "bohg.jpg"
+            "image": "Rifat.jpg"
         },
         {
             "firstName": "Md Mosharaf",
             "lastName": "Hossan",
-            "aboutMe": "        Rifat Ara Tasnim is a second year PhD student in Computer Science at the University of New Orleans. She is currently working as a research assistant under Dr. Farjana Zebin Eishita at the Idaho State University. Her main research interest focuses on providing psychological treatment through wearable or handheld devices using serious games. Her current research explores incorporating CBT in video games playable in smartphones. Her primary concern is to implement CBT in a video game to treat young adults who have Obsessive Compulsive Disorder (OCD). She is also working on a digital game to detect different types of cognitive distortions present among the players.<br> <br>Rifat holds a B.Sc. in Computer Science and Engineering from Khulna University of Engineering and Technology, Bangladesh. Before starting her PhD journey, she worked as a software engineer in an IT company.",
+            "aboutMe": "Mosharaf is currently a master's student in the Computer Science department at Idaho State University. He also works as a teaching assistant in the same department.\n\nHis main research interest focuses on using handheld device serious games to help people with Obsessive-Compulsive Disorder (OCD) deal with their anxiety through exposure therapy. <br> <br> Mosharaf holds a Bachelor of Science degree in Computer Science and Engineering from Khulna University of Engineering and Technology, Bangladesh. Before starting his master's program, he worked as a software engineer in the IT industry.",
             "links": {
-                "email": "mosharafkuet@gmail.com",
-                "linkedin": "https://linkedin.com/mosharaf13"
+                "Email": "mdmosharafhossan@isu.edu",
+                "Linkedin": "https://linkedin.com/mosharaf13"
             },
             "position": "Masters Student",
-            "image": "bohg.jpg"
-        },
-        {
-            "firstName": "Md Mosharaf",
-            "lastName": "Hossan",
-            "aboutMe": "        Rifat Ara Tasnim is a second year PhD student in Computer Science at the University of New Orleans. She is currently working as a research assistant under Dr. Farjana Zebin Eishita at the Idaho State University. Her main research interest focuses on providing psychological treatment through wearable or handheld devices using serious games. Her current research explores incorporating CBT in video games playable in smartphones. Her primary concern is to implement CBT in a video game to treat young adults who have Obsessive Compulsive Disorder (OCD). She is also working on a digital game to detect different types of cognitive distortions present among the players.<br> <br>Rifat holds a B.Sc. in Computer Science and Engineering from Khulna University of Engineering and Technology, Bangladesh. Before starting her PhD journey, she worked as a software engineer in an IT company.",
-            "links": {
-                "email": "mosharafkuet@gmail.com",
-                "linkedin": "https://linkedin.com/mosharaf13"
-            },
-            "position": "Masters Student",
-            "image": "bohg.jpg"
-        },
-        {
-            "firstName": "Md Mosharaf",
-            "lastName": "Hossan",
-            "aboutMe": "        Rifat Ara Tasnim is a second year PhD student in Computer Science at the University of New Orleans. She is currently working as a research assistant under Dr. Farjana Zebin Eishita at the Idaho State University. Her main research interest focuses on providing psychological treatment through wearable or handheld devices using serious games. Her current research explores incorporating CBT in video games playable in smartphones. Her primary concern is to implement CBT in a video game to treat young adults who have Obsessive Compulsive Disorder (OCD). She is also working on a digital game to detect different types of cognitive distortions present among the players.<br> <br>Rifat holds a B.Sc. in Computer Science and Engineering from Khulna University of Engineering and Technology, Bangladesh. Before starting her PhD journey, she worked as a software engineer in an IT company.",
-            "links": {
-                "email": "mosharafkuet@gmail.com",
-                "linkedin": "https://linkedin.com/mosharaf13"
-            },
-            "position": "Masters Student",
-            "image": "bohg.jpg"
-        },
-        {
-            "firstName": "Md Mosharaf",
-            "lastName": "Hossan",
-            "aboutMe": "        Rifat Ara Tasnim is a second year PhD student in Computer Science at the University of New Orleans. She is currently working as a research assistant under Dr. Farjana Zebin Eishita at the Idaho State University. Her main research interest focuses on providing psychological treatment through wearable or handheld devices using serious games. Her current research explores incorporating CBT in video games playable in smartphones. Her primary concern is to implement CBT in a video game to treat young adults who have Obsessive Compulsive Disorder (OCD). She is also working on a digital game to detect different types of cognitive distortions present among the players.<br> <br>Rifat holds a B.Sc. in Computer Science and Engineering from Khulna University of Engineering and Technology, Bangladesh. Before starting her PhD journey, she worked as a software engineer in an IT company.",
-            "links": {
-                "email": "mosharafkuet@gmail.com",
-                "linkedin": "https://linkedin.com/mosharaf13"
-            },
-            "position": "Masters Student",
-            "image": "bohg.jpg"
+            "image": "mosharaf.jpg"
         }
     ]
 }
-  
